@@ -1,3 +1,5 @@
+package Code_Alpha_Tasks;
+
 import java.util.Scanner;
 
 public class Code_Alpha_Task_3 {
